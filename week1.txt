@@ -1,2 +1,5 @@
-file week1 thuoc week1
-file week
+file week1 va main
+
+
+file week1 
+
